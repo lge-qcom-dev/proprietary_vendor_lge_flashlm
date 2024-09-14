@@ -641,7 +641,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/flashlm/proprietary/vendor/lib/libmorpho_image_stab31.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmorpho_image_stab31.so \
     vendor/lge/flashlm/proprietary/vendor/lib/libmorpho_wdr2.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmorpho_wdr2.so \
     vendor/lge/flashlm/proprietary/vendor/lib/libmpbase.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmpbase.so \
-    vendor/lge/flashlm/proprietary/vendor/lib/libsnsapi.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsnsapi.so \
     vendor/lge/flashlm/proprietary/vendor/lib/libspectre3.so:$(TARGET_COPY_OUT_VENDOR)/lib/libspectre3.so \
     vendor/lge/flashlm/proprietary/vendor/lib/libsymphony-1.1.2.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsymphony-1.1.2.so \
     vendor/lge/flashlm/proprietary/vendor/lib/libsymphony-1.1.4.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsymphony-1.1.4.so \
@@ -914,7 +913,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/flashlm/proprietary/vendor/lib64/libmorpho_image_stab31.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmorpho_image_stab31.so \
     vendor/lge/flashlm/proprietary/vendor/lib64/libmorpho_wdr2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmorpho_wdr2.so \
     vendor/lge/flashlm/proprietary/vendor/lib64/libmpbase.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmpbase.so \
-    vendor/lge/flashlm/proprietary/vendor/lib64/libsnsapi.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsnsapi.so \
     vendor/lge/flashlm/proprietary/vendor/lib64/libspectre3.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libspectre3.so \
     vendor/lge/flashlm/proprietary/vendor/lib64/libsymphony-1.1.4.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsymphony-1.1.4.so \
     vendor/lge/flashlm/proprietary/vendor/lib64/libsymphony-cpu.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsymphony-cpu.so \
